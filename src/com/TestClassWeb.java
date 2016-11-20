@@ -11,6 +11,7 @@ import org.openqa.selenium.interactions.Actions;
 
 public class TestClassWeb {
 
+	public static String user="data", pass="data";
 	
 	
 	public static void main(String []args) throws InterruptedException{
